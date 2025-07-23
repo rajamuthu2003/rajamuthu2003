@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajamuthu2003
-- 👀 I’m interested in Work Pythhon developer
+- 👀 I’m interested in Work Python developer
 - 🌱 I’m currently learning Python Full stack
 - 📫 How to reach me contact email:rm308519@gmail.com
 - ⚡ BE.Electronics and Communication Engineering
